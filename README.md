@@ -19,15 +19,11 @@ I'm ready for productive work :)
 ```
 🌱 I’m currently learning MERN Stack 
 ```
-<br/>
-
 ## Connect with me:
 
-<br/>
-
-[<img src="./image/facebook.png" alt='facebook' height='40'>](https://www.facebook.com/md.alamin7500)
-[<img src='./image/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdalamin75/)  [<img src='./image/twitter.png' alt='twitter' height='40'>](https://twitter.com/md_alamin75)
-[<img src='./image/instagram.png' alt='instagram' height='40'>](https://www.instagram.com/md_alamin75/)[<img src='./image/coding.png' alt='website' height='40'>](https://mdalamin.netlify.app/)
+[<img src="./image/facebook.png" alt='facebook' target="_blank" height='40'>](https://www.facebook.com/md.alamin7500)
+[<img src='./image/linkedin.png' alt='linkedin' target="_blank" height='40'>](https://www.linkedin.com/in/mdalamin75/)  [<img src='./image/twitter.png' alt='twitter' target="_blank" height='40'>](https://twitter.com/md_alamin75)
+[<img src='./image/instagram.png' alt='instagram' target="_blank" height='40'>](https://www.instagram.com/md_alamin75/)[<img src='./image/coding.png' alt='website' target="_blank" height='40'>](https://mdalamin.netlify.app/)
 
 <br/>
 
